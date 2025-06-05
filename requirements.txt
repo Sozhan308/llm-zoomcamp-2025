@@ -7,3 +7,4 @@ scikit-learn
 ipywidgets 
 minsearch
 groq
+python-dotenv
