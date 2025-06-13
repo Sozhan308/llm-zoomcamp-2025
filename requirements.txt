@@ -8,3 +8,6 @@ ipywidgets
 minsearch
 groq
 python-dotenv
+requests
+ipykernel
+tiktoken
