@@ -1,2 +1,3 @@
 llmenv/**
 .env
+qdrant_storage/**

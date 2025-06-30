@@ -11,3 +11,4 @@ python-dotenv
 requests
 ipykernel
 tiktoken
+qdrant-client[fastembed]>=1.14.2
