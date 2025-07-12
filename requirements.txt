@@ -12,3 +12,4 @@ requests
 ipykernel
 tiktoken
 qdrant-client[fastembed]>=1.14.2
+dlt[qdrant]
